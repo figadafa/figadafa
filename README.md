@@ -43,6 +43,21 @@ const figa = {
   openTo: ["internships", "freelance", "collaboration"],
 };
 ```
+### `// BY THE NUMBERS`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=figadafa&theme=github_dark" alt="Figa's GitHub profile summary" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=figadafa&theme=github_dark" alt="Figa's GitHub stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=figadafa&theme=github_dark" alt="Languages by repository" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=figadafa&background=171717&border=F36B35&stroke=F36B35&ring=F36B35&fire=F36B35&currStreakNum=F0EBE2&sideNums=F0EBE2&currStreakLabel=F36B35&sideLabels=F0EBE2&dates=A8A29A" alt="Figa's contribution streak">
+</p>
+
 
 ### `// ON THE WALL`
 
