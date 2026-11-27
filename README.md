@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://figadaffa.my.id">
-    <img src="./GRIZZLYBanner.png" alt="Grizzly - Built through friction" width="100%">
+    <img src="./banner.svg" alt="Grizzly - Built through friction" width="100%">
   </a>
 </p>
 
