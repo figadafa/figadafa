@@ -22,7 +22,7 @@
 |:-:|---|---|
 | **01** | **Data** | In the age of AI, information matters. Good data helps test what's true. |
 | **02** | **NLP** | Comparing traditional and Transformer-based models for hoax news detection. |
-| **03** | **Design & Visuals** | Posters, comics, and turning ideas into something people can see. |
+| **03** | **AI** | EVERTHING IS NOW AI |
 | **04** | **Drawing & Graffiti** | Where my curiosity started, back in elementary school. |
 
 ### `// MY SPRAY CANS`
