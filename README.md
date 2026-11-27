@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://figadaffa.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-F36B35?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:figabrilliantdafa1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge" alt="Email"></a>
+  <a href="https://www.instagram.com/figadaffa/"><img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge" alt="INSTAGRAM"></a>
 </p>
 
 ---
